@@ -1,0 +1,1 @@
+cordova app that runs in the background sends the user's location to [track dtg server](https://github.com/davidgruebl/track-dtg-server) on location change
